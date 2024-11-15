@@ -1,0 +1,20 @@
+@import './core/colors';
+@import './core/fonts';
+
+$primary-color:$color-theme-1;
+$secondary-color: $color-theme-2;
+$text-color: $color-dark-3;
+$background-color: #f4f4f4;
+
+$font-family: 'Roboto', sans-serif;
+$secondary-font-family:'Poppins', sans-serif;
+
+
+$border-forms-color: #f0f0f0;
+$input-border-color: #ffffff;
+$input-border-radius: 3px;
+$input-padding: 9px;
+$form-max-width: 900px;
+$border-shadow:  10px 5px 5px rgb(209, 209, 209);
+$submit-btn-radius: 2px;
+

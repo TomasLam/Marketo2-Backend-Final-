@@ -1,0 +1,55 @@
+.contact-form {
+  
+  width: 50%;
+  margin: auto;
+  padding: 30px;
+  border: 1px solid $border-forms-color;
+  border-radius: $input-border-radius;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+
+  .contact-form h4 {
+    display: flex;
+    text-decoration: underline;
+    font-weight: $font-weight-regular;
+  }
+
+.contact-form label {
+  margin-top: 10px;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form input[type="tel"],
+.contact-form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  border: 1px solid $border-forms-color;
+  border-radius: $input-border-radius;
+  background-color:$color-theme-3 ;
+  box-sizing: border-box;
+}
+
+.contact-form textarea {
+  resize: vertical;
+}
+
+  .checkbox-container {
+    margin-top: 15px;
+  }
+
+  .checkbox-container input[type="checkbox"] {
+    margin-right: 5px;
+ }
+
+
+      .btn-contact {
+        @include submit-btn;      
+      }
+
+      .map-stockholm{
+        margin-top: 60px;
+      }

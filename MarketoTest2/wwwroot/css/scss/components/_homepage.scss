@@ -1,0 +1,302 @@
+
+
+body {
+  margin: 0;
+  height: 100%;
+    font-family: $font-family;
+    color: $text-color;
+    
+  }
+  
+    
+    header {
+      background: #fff;
+      padding: 20px 0;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+      .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+        .logo {
+          width: 150px;        
+        }
+    
+        #menu {
+          display: flex;
+          align-items: center;
+          margin-left: auto;
+          .menu-links {
+            display: flex;
+            margin-right: 20px ;
+            gap: 20px;
+    
+            a {
+              color: $text-color;
+              font-weight: $font-weight-regular;
+    
+              &:hover {
+                color: $primary-color;
+              }
+            }
+          }
+    
+          .menu-icons {
+            display: flex;
+            gap: 15px;
+            margin-left: auto;
+    
+            a {
+              font-size: 1.2em;
+              color: $text-color;
+    
+              &:hover {
+                color: $primary-color;
+              }
+            }
+          }
+        }
+      }
+    }
+
+    .First-placeholder {
+      @include flex-center;
+      background-color: rgb(243, 243, 243);
+      gap: 150px;
+    }
+
+    .first-text{
+      @include flex-center;
+      margin-top: 20px;
+      color: $color-dark-2;
+      .firstshop-text{
+        display: flex;
+        margin-bottom: 50px;
+      }
+      .sec-shopnow{
+        display: flex;
+        font-size: 60px;
+      }
+      .shopnow-btn{
+        display: flex;
+        margin-top: 35px;
+        display: inline-block;
+                background-color: $color-theme-1;
+                color: $color-white;
+                padding: 20px 50px;
+                text-decoration: none;
+                border-radius: 2px;
+                border: 2px solid $color-theme-1;
+                transition: background-color 0.3s ease;
+      }
+    }
+
+    .Best-collection {
+      margin-left: 35%;
+      margin-bottom: 50px;
+      align-items: center;
+      justify-self: center;
+
+      .collection-text{
+        display: flex;
+        margin-left: 12%;
+        font-size: 40px;
+        color: $color-dark-1;
+        font-family: $secondary-font-family;
+         
+      }
+      
+    }
+
+    .Collection-category{
+      display: flex;
+      gap: 15px;
+    }
+      
+    a[href="#all"]{
+      @include href-collections;
+    }
+    a[href="#bags"]{
+      @include href-collections;
+  }
+  a[href="#dress"]{
+    @include href-collections;
+  }
+  a[href="#decoration"]{
+    @include href-collections;
+  }
+  a[href="#essentials"]{
+    @include href-collections;
+  }
+  a[href="#interior"]{
+    @include href-collections;
+  }
+  a[href="#laptop"]{
+    @include href-collections;
+  }
+  a[href="#mobile"]{
+    @include href-collections;
+  }
+  a[href="#beauty"]{
+    @include href-collections;
+  }
+    
+  
+
+    
+        .Collection-cards {
+          @include flex-center;
+          margin-top: 50px;
+          
+          .container {
+          @include cards-property;
+            
+          }
+          }
+
+          .card-pri{
+            border-bottom: 1px solid rgb(243, 242, 242); 
+            color: $color-dark-3;           
+          }
+          .card-title{
+            font-weight: $font-weight-medium;
+            font-size: 17px;
+            color: $color-dark-1;
+            font-family: $font-roboto
+
+          }
+
+          .btn-load{
+            @include flex-center;
+            margin-top: 30px;
+            .load-more-btn{
+              background-color: $color-white;
+              font-family: $font-poppins;
+              width: 190px;
+              height: 55px;
+            }          
+          }
+
+          .container-bestprice {
+            @include flex-center;
+            margin-top: 50px;
+            background-color: $color-theme-2;
+            gap: 25px;  
+            height: 100%;             
+              .card-50{
+                margin-top: 70px;
+              }
+              .card-body-tosell{
+                margin-bottom: 50px;
+                background-color: $color-white;
+                border-style: solid;
+                border-color: rgb(245, 245, 245);
+              }
+            }
+  
+            .card-pri{
+              $underline-card: 1px solid rgb(243, 242, 242);
+              $underline-card-color: $color-dark-3;
+            }
+            .card-title{
+              font-weight: $font-weight-medium;
+              font-size: 17px;
+              color: $color-dark-1;
+              font-family: $font-roboto;
+  
+            }
+
+            .card-up-sale{
+              background-color: $color-white;
+              height: 200%;
+            }
+            .card-body-50 {              
+              text-align: center; 
+              height: 300px;
+              margin-top: 10px; 
+                
+              .card-title {
+                  font-size: 18px;
+                  color: $primary-color;
+                  font-weight: bold;
+                  margin: 10px 0;
+                  margin-top: 100px;
+              }
+      
+              .price-off {
+                  font-size: 40px;                 
+                  margin: 10px 0;
+                  color: $color-dark-1;
+                  margin-top: 100px;
+              }
+      
+              .best-price-text {
+                  font-size: 25px;
+                  color: $color-dark-1;
+                  font-weight: $font-weight-regular ;                 
+                  margin: 10px 0;
+              }
+            }      
+
+
+            .top-selling-text{
+              @include flex-center;
+              margin-top: 30px;
+              font-size: 30px;
+              font-weight: bold;
+              color: $color-dark-1;
+              font-family: $font-roboto;
+            }
+
+
+            .container-topsell{
+              @include flex-center;
+              margin-top: 25px;
+              gap: 25px;
+            }
+        
+            .Arrows{
+              @include flex-center;
+              font-size: 40px;
+              gap: 10px; 
+              color: $color-dark-1;
+              margin-top: 5px;
+            }
+
+            .container-lamp{
+              @include flex-center;
+              gap: 25px;
+              margin-top: 5px
+            }
+
+            .subscript-form{
+              @include flex-center;   
+              background-color: rgb(196, 196, 196);  
+              height: 200px;       
+                .sub-button{
+                  background-color: $color-theme-1;
+                color: white;
+                padding: 20px 120px;
+                text-decoration: none;
+                border-radius: 30px;
+                border: 2px solid $color-theme-1;
+                transition: background-color 0.3s ease;
+                
+                }
+                .form-style-home{
+                  color: white;
+                padding: 20px 200px;
+                text-decoration: none;
+                border-radius: 30px;
+                border: 1px solid rgb(204, 204, 204);
+                }
+            }
+
+            .footer-home{
+              @include all-footers;
+              .copyrighttxt{
+                color: $color-white;
+              }
+            }
+           

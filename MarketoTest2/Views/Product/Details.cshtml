@@ -1,0 +1,23 @@
+@using MarketoTest2.Models
+@model MarketoTest2.Models.Product
+
+<h1>Detaljer för @Model.Name</h1>
+
+<div>
+    <strong>Produktnamn:</strong> @Model.Name
+</div>
+<div>
+    <strong>Beskrivning:</strong> @Model.Description
+</div>
+<div>
+    <strong>Pris:</strong> @Model.Price
+</div>
+<div>
+    <strong>Kategorier:</strong>
+    @foreach (var productCategory in Model.ProductCategories)
+    {
+        <span>@productCategory.Category.Name</span><br />
+    }
+</div>
+
+<a href="@Url.Action("Index", "Home")" class="btn btn-primary">Back to homepage</a>

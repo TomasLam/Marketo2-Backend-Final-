@@ -1,0 +1,51 @@
+@model MarketoTest2.Models.LogInViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script defer src="js/script.js"></script>
+    <link rel="stylesheet" href="~/css/style.css">
+    <title>Min Hemsida</title>
+</head>
+<body>
+    <partial name="_Header"/>
+
+    <section class="form-login">
+        <div class="login-form">
+            <h4>Please Login to Your Account</h4>
+
+            <form method="post" asp-action="LogIn" asp-controller="LogIn">
+                <div class="form-group">
+                    <label for="Email">Email*</label>
+                    <a href="@Url.Action("RegSite", "RegSite")">Don't have an account yet?</a>
+                    <input type="email" asp-for="Email" class="form-control" required />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="Password">Password*</label>
+                    <input type="password" asp-for="Password" class="form-control" required />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="checkbox" asp-for="RememberMe" />
+                    <label for="RememberMe">Please keep me logged in</label>
+                </div>
+
+                <button class="btn-contact" type="submit">Submit</button>
+            </form>
+        </div>
+    </section>
+
+    <section class="footer-login">
+        <partial name="_Footer"/>
+    </section>
+
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>

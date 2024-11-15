@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-sass": "^9.0.0"
+  },
+  "devDependencies": {
+    "sass": "^1.77.4"
+  }
+}

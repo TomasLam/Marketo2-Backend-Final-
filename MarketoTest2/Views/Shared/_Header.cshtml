@@ -1,0 +1,41 @@
+<header>
+    <div class="container">
+        <img class="logo" src="~/images/Logo.svg" alt="">
+
+        <div id="menu">
+            <nav class="menu-links">
+                <a href="@Url.Action("Index", "Home")">Hem</a>
+                <a href="@Url.Action("ProductDetail", "ProductDetail")">Products</a>
+                <a href="@Url.Action("Contact", "Contact")">Contact</a>
+
+                @* Visa "Backoffice" endast om användaren är inloggad som admin *@
+                @if (User.IsInRole("Admin"))
+                {
+                    <a href="@Url.Action("UserList", "Backoffice")">Backoffice</a>
+                }
+            </nav>
+
+            <nav class="menu-icons">
+                <a class="link" href="#"><i class="fa-solid fa-magnifying-glass"></i></a>
+
+                @* Kolla om användaren är inloggad *@
+                @if (User.Identity?.IsAuthenticated == true)
+                {
+                    <span>Välkommen, @User.Identity.Name!</span>
+
+                    @* Logout-formulär med anti-forgery token *@
+                    <form asp-controller="LogIn" asp-action="Logout" method="post" style="display:inline;">
+                        @Html.AntiForgeryToken() <!-- Lägg till anti-forgery token -->
+                        <button type="submit" class="btn btn-link">Logout</button> <!-- Logout-knapp -->
+                    </form>
+                }
+                else
+                {
+                    <a href="@Url.Action("LogIn", "LogIn")">Login</a>
+                }
+
+                <a class="link" href="#"><i class="fa-solid fa-cart-shopping"></i></a>
+            </nav>
+        </div>
+    </div>
+</header>

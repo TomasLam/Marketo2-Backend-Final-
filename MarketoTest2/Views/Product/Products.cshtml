@@ -1,0 +1,33 @@
+@using MarketoTest2.Models
+@model IEnumerable<MarketoTest2.Models.Product>
+
+<h1>Produkter</h1>
+
+<a href="@Url.Action("Create", "Product")" class="btn btn-primary">Skapa ny produkt</a>
+
+<table class="table mt-4">
+    <thead>
+        <tr>
+            <th>Produktnamn</th>
+            <th>Pris</th>
+            <th>Kategorier</th>
+            <th>Detaljer</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>
+                    @foreach (var productCategory in product.ProductCategories)
+                    {
+                        <span>@productCategory.Category.Name</span><br />
+                    }
+                </td>
+                <td><a href="@Url.Action("Details", "Product", new { id = product.Id })" class="btn btn-info">Visa detaljer</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

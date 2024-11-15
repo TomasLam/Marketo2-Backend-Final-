@@ -1,0 +1,248 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model MarketoTest2.Models.HomeViewModel
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Tutorial">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script defer src="js/script.js"></script>
+    
+    <link rel="stylesheet" href="path/to/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <title>Min Hemsida</title>
+</head>
+<body>
+
+    <partial name="_Header"/>
+
+    <section class="First-placeholder">
+        <div class="first-text">
+            <p class="first-shopnow"><span class="firstshop-text">WELCOME TO BMARKETO SHOP</span> <br>
+                <span class="sec-shopnow"><b>Exclusive Chair <br>gold Collections.</b></b></span>
+            </p>
+            <a class="shopnow-btn" href="#">
+                <span class="shopbtn-left"></span>
+                SHOP NOW
+                <span class="shopbtn-right"></span>
+            </a>
+        </div>
+
+        <div class="">
+            <img class="holder-625x647" src="~/images/625x647.svg">
+        </div>
+    </section>  
+
+    <section class="Best-collection" style="margin-left: 0%;">
+        <div>
+            <p class="collection-text"><b>Best Collection</b></p>
+        </div>
+
+        <div class="Collection-category">
+            <a href="#all">All /</a>
+            <a href="#bags">Bags /</a> 
+            <a href="#dress">Dress /</a> 
+            <a href="#decoration">Decoration /</a> 
+            <a href="#essentials">Essentials /</a> 
+            <a href="#interior">Interior /</a> 
+            <a href="#laptop">Laptop /</a> 
+            <a href="#mobile">Mobile /</a> 
+            <a href="#beauty">Beauty</a>
+        </div>
+    </section>
+
+
+     <section class="product-list">
+        <!-- Display New Products -->
+        <div>
+            <h2>New Products</h2>
+            <div class="row">
+                @foreach (var product in Model.NewProducts)
+                {
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="@Url.Content(product.ImageUrl ?? "~/images/default.jpg")" class="card-img-top" alt="@product.Name">
+                            <div class="card-body">
+                                <h5 class="card-title">@product.Name</h5>
+                                <p class="card-text">@product.Description</p>
+                                <p class="card-price">$@product.Price</p>
+                                <a href="@Url.Action("Details", "Product", new { id = product.Id })" class="btn btn-info">Show details</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+
+        <!-- Similarly, display Popular and Featured Products -->
+        <div>
+            <h2>Popular Products</h2>
+            <div class="row">
+                @foreach (var product in Model.PopularProducts)
+                {
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="@Url.Content(product.ImageUrl ?? "~/images/default.jpg")" class="card-img-top" alt="@product.Name">
+                            <div class="card-body">
+                                <h5 class="card-title">@product.Name</h5>
+                                <p class="card-text">@product.Description</p>
+                                <p class="card-price">$@product.Price</p>
+                                <a href="@Url.Action("Details", "Product", new { id = product.Id })" class="btn btn-info">Show details</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+
+        <div>
+            <h2>Featured Products</h2>
+            <div class="row">
+                @foreach (var product in Model.FeaturedProducts)
+                {
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="@Url.Content(product.ImageUrl ?? "~/images/default.jpg")" class="card-img-top" alt="@product.Name">
+                            <div class="card-body">
+                                <h5 class="card-title">@product.Name</h5>
+                                <p class="card-text">@product.Description</p>
+                                <p class="card-price">$@product.Price</p>
+                                <a href="@Url.Action("Details", "Product", new { id = product.Id })" class="btn btn-info">Show details</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </section>
+
+    
+
+    <div class="btn-load">
+        <button class="load-more-btn">
+            Load More <i class="fa-solid fa-arrows-rotate"></i>
+        </button>
+    </div>
+
+      
+
+               <div class="container-bestprice">
+            <div class="card-50">
+                <div class="img">
+                  <img class="holder-369x310" src="~/images/369x310.svg">
+                </div>
+                <div class="card-body-tosell">
+                    <h5 class="card-title">Table Lamp - scelerisque tempore</h5>
+                    <p class="card-pri">$50.00 $30.00</p>
+                </div>
+            </div>
+            
+            <div class="card-up-sale">
+              <div class="img">
+                  <img class="">
+              </div>
+              <div class="card-body-50">
+                  <h5 class="card-title">UP TO SELL</h5>
+                  <span class="price-off"><b>50% OFF</b></span><br>
+                <span class="best-price-text"><B>Get The Best Price</B>
+                </span> <br>
+                <span>Get the best daily offer et accusam et justo duo dolores<br> et ea rebum.<br> Stet clita kasd gubergren no sea taki</span><br>
+                <a href="#">Discover More</a>
+
+              </div>
+          </div>
+
+          <div class="card-50">
+            <div class="img">
+              <img class="holder-369x310" src="~/images/369x310.svg">
+            </div>
+            <div class="card-body-tosell">
+                <h5 class="card-title">Table Lamp - scelerisque tempore</h5>
+                <p class="card-pri">$50.00 $30.00</p>
+            </div>
+        </div>            
+        </div>
+
+    <partial name="_TopSell"/>
+
+    <section class="Lamp-description">
+          
+          <div class="container-lamp">
+            <div class="card-LTG">
+                <div class="img">
+                  <img class="holder-369x310" src="images/369x310.svg">
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">Table lamp 1562 LTG modal</h5>
+                    <p>Best dress for everyone ed totam velit risus viverra<br>nobis donec recusandae perspiciatis incididuno</p>
+                    <div class="actions">
+                      <span class="admin-post">POST BY:ADMIN</span>
+                      <span class="comments">💬 <span class="comment-count">0</span> Comments</span>
+                  </div>        
+                    <p class="card-pri"></p>
+                </div>
+            </div>
+
+            <div class="card-LTG">
+              <div class="img">
+                <img class="holder-369x310" src="images/369x310.svg">
+              </div>
+              <div class="card-body">
+                  <h5 class="card-title">Table lamp 1562 LTG modal</h5>
+                  <p>Best dress for everyone ed totam velit risus viverra<br>nobis donec recusandae perspiciatis incididuno</p>
+                  <div class="actions">
+                    <span class="admin-post">POST BY:ADMIN</span>
+                    <span class="comments">💬 <span class="comment-count">0</span> Comments</span>
+                </div>
+                  <p class="card-pri"></p>
+              </div>
+          </div>
+
+          <div class="card-LTG">
+            <div class="img">
+              <img class="holder-369x310" src="images/369x310.svg">
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">Table lamp 1562 LTG modal</h5>
+                <p>Best dress for everyone ed totam velit risus viverra<br>nobis donec recusandae perspiciatis incididuno</p>
+                <div class="actions">
+                  <span class="admin-post">POST BY:ADMIN</span>
+                  <span class="comments">💬 <span class="comment-count">0</span> Comments</span>
+              </div>
+                <p class="card-pri"></p>
+            </div>
+        </div>
+        </div>
+          </div>
+        </div>    
+
+        </section>
+
+    <div class="Arrows">
+        <i class="fa-solid fa-square-caret-left"></i>
+        <i class="fa-solid fa-square-caret-right"></i>         
+    </div>
+
+    <section class="Lamp-description">
+       
+    </section>
+
+    <div class="subscript-form">
+        <form id="newsletter-form">
+            <input class="form-style-home" type="email" id="email" name="email" placeholder="Enter your email" required style="color: black;">
+            <button class="sub-button" type="submit">Subscribe</button>
+        </form>
+    </div>
+
+    <partial name="_Footer"/>
+
+    <script src="~/js/site.js"></script>
+</body>
+</html>

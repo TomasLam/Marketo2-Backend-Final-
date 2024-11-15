@@ -1,0 +1,63 @@
+@model MarketoTest2.Models.RegisterViewModel
+
+<div class="regi-form">
+    <h4>Please Register Your New Account</h4>
+
+    @using (Html.BeginForm("RegSite", "RegSite", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+        @Html.ValidationSummary(true)
+
+        <label for="first-name">First Name*</label>
+        @Html.TextBoxFor(m => m.FirstName, new { @id = "first-name", @placeholder = "" })
+        @Html.ValidationMessageFor(m => m.FirstName)
+
+        <label for="last-name">Last Name*</label>
+        @Html.TextBoxFor(m => m.LastName, new { @id = "last-name", @placeholder = "" })
+        @Html.ValidationMessageFor(m => m.LastName)
+
+        <label for="email">E-mail*</label>
+        @Html.TextBoxFor(m => m.Email, new { @id = "email", @placeholder = "" })
+        @Html.ValidationMessageFor(m => m.Email)
+
+        <label for="password">Password*</label>
+        @Html.PasswordFor(m => m.Password, new { @id = "password", @placeholder = "" })
+        @Html.ValidationMessageFor(m => m.Password)
+
+        <label for="confirm-password">Confirm Password*</label>
+        @Html.PasswordFor(m => m.ConfirmPassword, new { @id = "confirm-password", @placeholder = "" })
+        @Html.ValidationMessageFor(m => m.ConfirmPassword)
+
+        <label for="postal-code">Postal Code*</label>
+        @Html.TextBoxFor(m => m.PostalCode, new { @id = "postal-code", @placeholder = "" })
+        @Html.ValidationMessageFor(m => m.PostalCode)
+
+        <label for="street-name">Street Name*</label>
+        @Html.TextBoxFor(m => m.StreetName, new { @id = "street-name", @placeholder = "" })
+        @Html.ValidationMessageFor(m => m.StreetName)
+
+        <label for="city">City*</label>
+        @Html.TextBoxFor(m => m.City, new { @id = "city", @placeholder = "" })
+        @Html.ValidationMessageFor(m => m.City)
+
+        <label for="mobile">Mobile (optional)</label>
+        @Html.TextBoxFor(m => m.Mobile, new { @id = "mobile", @placeholder = "" })
+        @Html.ValidationMessageFor(m => m.Mobile)
+
+        <label for="company">Company (optional)</label>
+        @Html.TextBoxFor(m => m.Company, new { @id = "company", @placeholder = "" })
+        @Html.ValidationMessageFor(m => m.Company)
+
+        <label for="profile-image">Upload Profile Image (optional)</label>
+        <input type="file" id="profile-image" name="profile-image">
+
+        <div class="checkbox-container">
+            @Html.CheckBoxFor(m => m.Terms)
+            <label for="terms">I have read and accept the terms and agreements</label>
+            @Html.ValidationMessageFor(m => m.Terms)
+        </div>
+
+        <button class="btn-reg" type="submit">Submit</button>
+    }
+</div>

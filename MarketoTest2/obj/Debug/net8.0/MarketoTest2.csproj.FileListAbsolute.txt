@@ -1,0 +1,516 @@
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/appsettings.Development.json
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/appsettings.json
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/MarketoTest2.staticwebassets.runtime.json
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/MarketoTest2
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/MarketoTest2.deps.json
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/MarketoTest2.runtimeconfig.json
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/MarketoTest2.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/MarketoTest2.pdb
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/MarketoTest2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/MarketoTest2.AssemblyInfoInputs.cache
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/MarketoTest2.AssemblyInfo.cs
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/MarketoTest2.csproj.CoreCompileInputs.cache
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/MarketoTest2.MvcApplicationPartsAssemblyInfo.cache
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/MarketoTest2.RazorAssemblyInfo.cache
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/MarketoTest2.RazorAssemblyInfo.cs
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/staticwebassets.build.json
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/staticwebassets.development.json
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/staticwebassets/msbuild.MarketoTest2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/staticwebassets/msbuild.build.MarketoTest2.props
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MarketoTest2.props
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MarketoTest2.props
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/scopedcss/bundle/MarketoTest2.styles.css
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/scopedcss/projectbundle/MarketoTest2.bundle.scp.css
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/MarketoTest2.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/refint/MarketoTest2.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/MarketoTest2.pdb
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/MarketoTest2.genruntimeconfig.cache
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/ref/MarketoTest2.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Azure.Core.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Azure.Identity.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/MarketoTest2.csproj.AssemblyReference.cache
+/Users/tomasl/Documents/Marketo2/MarketoTest2/obj/Debug/net8.0/MarketoT.F435F464.Up2Date
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Humanizer.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/System.CodeDom.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2/MarketoTest2/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/appsettings.Development.json
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/appsettings.json
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/MarketoTest2.staticwebassets.runtime.json
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/MarketoTest2
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/MarketoTest2.deps.json
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/MarketoTest2.runtimeconfig.json
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/MarketoTest2.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/MarketoTest2.pdb
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Azure.Core.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Azure.Identity.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Humanizer.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/System.CodeDom.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/MarketoTest2.csproj.AssemblyReference.cache
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/MarketoTest2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/MarketoTest2.AssemblyInfoInputs.cache
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/MarketoTest2.AssemblyInfo.cs
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/MarketoTest2.csproj.CoreCompileInputs.cache
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/MarketoTest2.MvcApplicationPartsAssemblyInfo.cache
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/MarketoTest2.RazorAssemblyInfo.cache
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/MarketoTest2.RazorAssemblyInfo.cs
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/staticwebassets.build.json
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/staticwebassets.development.json
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/staticwebassets/msbuild.MarketoTest2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/staticwebassets/msbuild.build.MarketoTest2.props
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MarketoTest2.props
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MarketoTest2.props
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/scopedcss/bundle/MarketoTest2.styles.css
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/scopedcss/projectbundle/MarketoTest2.bundle.scp.css
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/MarketoT.F435F464.Up2Date
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/MarketoTest2.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/refint/MarketoTest2.dll
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/MarketoTest2.pdb
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/MarketoTest2.genruntimeconfig.cache
+/Users/tomasl/Documents/Marketo2 (Backend 4)/MarketoTest2/obj/Debug/net8.0/ref/MarketoTest2.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/appsettings.Development.json
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/appsettings.json
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/MarketoTest2.staticwebassets.runtime.json
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/MarketoTest2
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/MarketoTest2.deps.json
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/MarketoTest2.runtimeconfig.json
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/MarketoTest2.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/MarketoTest2.pdb
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Azure.Core.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Azure.Identity.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Humanizer.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/System.CodeDom.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/MarketoTest2.csproj.AssemblyReference.cache
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/MarketoTest2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/MarketoTest2.AssemblyInfoInputs.cache
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/MarketoTest2.AssemblyInfo.cs
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/MarketoTest2.csproj.CoreCompileInputs.cache
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/MarketoTest2.MvcApplicationPartsAssemblyInfo.cache
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/MarketoTest2.RazorAssemblyInfo.cache
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/MarketoTest2.RazorAssemblyInfo.cs
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/staticwebassets.build.json
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/staticwebassets.development.json
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/staticwebassets/msbuild.MarketoTest2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/staticwebassets/msbuild.build.MarketoTest2.props
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MarketoTest2.props
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MarketoTest2.props
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/scopedcss/bundle/MarketoTest2.styles.css
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/scopedcss/projectbundle/MarketoTest2.bundle.scp.css
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/MarketoT.F435F464.Up2Date
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/MarketoTest2.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/refint/MarketoTest2.dll
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/MarketoTest2.pdb
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/MarketoTest2.genruntimeconfig.cache
+/Users/tomasl/Documents/Marketo2 (Backend Final) /MarketoTest2/obj/Debug/net8.0/ref/MarketoTest2.dll

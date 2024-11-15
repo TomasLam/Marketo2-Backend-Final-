@@ -1,0 +1,67 @@
+
+
+.form-login {
+    @include flex-center;
+    margin-top: 200px;
+    margin-left: 550px;
+    max-width: 800px;
+    padding: 20px;
+    border: 1px solid $border-forms-color;
+    border-radius: $input-border-radius;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-form{
+    margin-right: auto;
+   .login-form h4 {
+    margin-bottom: 20px;
+    font-weight: $font-weight-regular;
+} 
+}
+
+.login-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.login-form input[type="email"],
+.login-form input[type="password"] {
+    width: 200%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #f3f3f3;
+    background-color: $color-theme-3;
+    border-radius: $input-border-radius;
+}
+
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.checkbox-container input {
+    margin-right: 10px;
+}
+
+.btn-contact {
+    display: inline-block;
+    @include submit-btn
+}
+
+.login-form a {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: $color-theme-1;
+    text-decoration: none;    
+}
+
+.footer-login{
+    @include all-footers;
+    @include flex-center;
+   margin-top: 670px;
+    height: 95px;
+    .copyrighttxt{
+        color: $color-white;
+    }
+}

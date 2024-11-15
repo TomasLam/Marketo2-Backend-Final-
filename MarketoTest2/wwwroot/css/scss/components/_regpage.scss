@@ -1,0 +1,62 @@
+.regi-form {
+  margin-top: 50px;
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+    border: 1px solid $border-forms-color;
+    border-radius: $input-border-radius;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  
+  }
+  
+  
+    .regi-form h4 {
+      display: flex;
+      text-decoration: underline;
+      font-weight: $font-weight-regular;
+    }
+  
+  .regi-form label {
+    margin-top: 10px;
+  }
+  
+  .regi-form input[type="text"],
+  .regi-form input[type="email"],
+  .regi-form input[type="tel"],
+  .regi-form input[type="password"],
+  .regi-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid $border-forms-color;
+    border-radius: $input-border-radius;
+    background-color:$color-theme-3 ;
+    box-sizing: border-box;
+  }
+  
+  .contact-form textarea {
+    resize: vertical;
+  }
+  
+    .checkbox-container {
+      margin-top: 15px;
+    }
+  
+    .checkbox-container input[type="checkbox"] {
+      margin-right: 5px;
+   }
+  
+        .btn-reg {
+          @include submit-btn;      
+        }
+  
+        .footer-reg{
+            @include all-footers;
+            @include flex-center;
+           margin-top: 670px;
+            height: 95px;
+            .copyrighttxt{
+                color: $color-white;
+            }
+        }
+        
